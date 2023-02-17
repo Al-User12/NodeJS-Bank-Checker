@@ -4,6 +4,10 @@
 const request = require('request');
 const cheerio = require('cheerio');
 
+/** Print Author Name */
+
+console.log(`| NodeJS Indonesian Bank Account Checker\n| Author: AL FIKRI KM\n| Github: https://github.com/Al-User12\n| API By: Vava Heirro\n`)
+
 /** Define Bank Name */
 
 const bankName = [
